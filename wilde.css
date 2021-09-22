@@ -21,4 +21,20 @@ p:hover {
     color: rgb(91, 158, 91);
 }
 
+.LORD_GORING {
+    color: rgb(145, 78, 223);
+}   
+
+.SIR_ROBERT_CHILTERN {
+    color:rgb(34, 158, 180);
+}
+
+#tableStyle{
+    border-style: dashed;
+    border-color:rgb(220, 178, 21);
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
+
+
 
