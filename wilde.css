@@ -1,0 +1,24 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:black;
+}
+
+.stage-direction {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: hsla(89, 43%, 51%, 0.3);
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:black;
+}
+
+p:hover {
+    background-color: yellow;
+    color: rgb(91, 158, 91);
+}
+
+
